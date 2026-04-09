@@ -1,11 +1,11 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!dishes_and_users/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
 
 ### IntelliJ IDEA ###
-.idea/*
+dishes_and_users/.idea/*
 *.iws
 *.iml
 *.ipr
